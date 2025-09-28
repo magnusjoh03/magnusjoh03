@@ -2,7 +2,7 @@
 **Data Engineering & Cybersecurity Student @ University of Agder**
 
 ## 🛠 Tech Stack  
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,c,cpp,go,rust,sqlite,postgres,mysql,mongodb,docker,kubernetes,nginx,linux,git,githubactions,aws,gcp,azure,prometheus,ansible,vscode,pycharm" />
 
 <!-- ## 🚀 Projects -->  
 
